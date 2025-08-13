@@ -37,7 +37,7 @@ font-weight: 700;
   width: 100%;
   height: 420px;
   background: linear-gradient(#8ea1af, #5592c4),
-  url('assets/images/edinburgh-bg.jpg');
+  url('/assets/images/edinburgh-bg.jpg');
   background-size: cover;
   background-blend-mode: multiply;
 }
